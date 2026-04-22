@@ -162,7 +162,7 @@ All experimental outputs (graphs, reports, models) are available here:
 ## 📈 Sample Output
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Parth-here/Lung_Colon_Cancer_Results/main/graphs/fold_1_results.png" width="500"/>
+  <img src="https://raw.githubusercontent.com/Parth-here/Lung_Colon_Cancer_Results/main/graphs/fold_5_results.png" width="500"/>
 </p>
 
 ## 📊 Per-Fold Test Accuracy (5-Fold CV)
