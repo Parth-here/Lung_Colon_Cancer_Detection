@@ -226,12 +226,27 @@ Label smoothing in later stages reduces catastrophic forgetting.
 
 ## 📄 Citation
 
-If you use this code, please cite the LC25000 dataset:
+If you use this work, please cite the following:
 
-> Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM. *Lung and Colon Cancer Histopathological Image Dataset (LC25000)*. arXiv:1912.12378v1 [eess.IV], 2019.
+### 📌 Primary Research Paper
+
+Mullakuri Anusha, D. Srinivasulu Reddy,  
+**"Fusion of classical and deep learning features with incremental learning for improved classification of lung and colon cancer"**,  
+*Scientific Reports*, 2025.  
+https://doi.org/10.1038/s41598-025-24734-w
 
 ---
 
-- **Project**: HandEffTrans — Handcrafted + EfficientNet + Transformer Fusion
-- **Dataset**: LC25000 (Lung & Colon Histopathology)
-- **Framework**: TensorFlow / Keras, Scikit-learn, OpenCV
+### 📌 Dataset
+
+Borkowski AA, Bui MM, Thomas LB, Wilson CP, DeLand LA, Mastorides SM.  
+**Lung and Colon Cancer Histopathological Image Dataset (LC25000)**.  
+arXiv:1912.12378v1, 2019.
+
+---
+
+### 📌 Project Summary
+
+- **Project**: HandEffTrans — Handcrafted + EfficientNet + Transformer Fusion  
+- **Dataset**: LC25000 (Lung & Colon Histopathology)  
+- **Framework**: TensorFlow / Keras, Scikit-learn, OpenCV  
