@@ -153,9 +153,19 @@ Handcrafted Features (62-dim)        Deep Features (1280-dim)
 
 ---
 
-## 📊 Results (Expected)
+## 📊 Results
 
-### Per-Fold Test Accuracy (5-Fold CV)
+All experimental outputs (graphs, reports, models) are available here:
+
+👉 https://github.com/Parth-here/Lung_Colon_Cancer_Results
+
+## 📈 Sample Output
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Parth-here/Lung_Colon_Cancer_Results/main/graphs/fold_1_results.png" width="500"/>
+</p>
+
+## 📊 Per-Fold Test Accuracy (5-Fold CV)
 
 | Fold | Accuracy | Precision | Recall | F1 Score | Kappa |
 |------|----------|-----------|--------|----------|--------|
