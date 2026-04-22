@@ -176,8 +176,6 @@ All experimental outputs (graphs, reports, models) are available here:
 | 5    | 99.86%   | 0.9986    | 0.9986 | 0.9986   | 0.9982 |
 | AVG  | 99.82%   | 0.9982    | 0.9982 | 0.9982   | 0.9977 |
 
-> Fill in your actual values after running `--summary`. Each fold also generates a per-class classification report in `results/reports/fold_N_report.txt`.
-
 ### Generated Plots (per fold)
 
 | Plot | Description |
